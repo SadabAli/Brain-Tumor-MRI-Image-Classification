@@ -13,24 +13,21 @@ It uses **Explainable AI (XAI) with LIME** to highlight the areas in the image t
 - **Deep Learning Models**: Implemented three models: 
   - **Custom CNN** *(Best performing model, used for LIME explanation)*
   - **VGG16**
-  - **VGG19**
 - **Explainable AI (XAI)**: Used **LIME (Local Interpretable Model-Agnostic Explanations)** to highlight important regions in the image contributing to classification.
 - **Streamlit UI**: Users can upload MRI images and receive a classification along with an explainability heatmap.
 
-## Demo Video
-🎥 [Watch the Demo](https://github.com/GaneshPrasadSahoo/Brain-Tumor-Classification-using-CNN-XAI/raw/main/braintumor.mp4)
 
 ## Installation
 To run this project locally, follow these steps:
 
 ### 1. Clone the repository
 ```bash
- git clone https://github.com/GaneshPrasadSahoo/Brain-Tumor-Classification-using-CNN-XAI.git
- cd Brain-Tumor-Classification-using-CNN-XAI
+ git clone 
+ cd 
 ```
 ### 2. Run the Streamlit app
 ```bash
-streamlit run app.py
+streamlit 
 ```
 
 ## Model Details
@@ -39,7 +36,7 @@ streamlit run app.py
 - **Performance**: Achieved the best accuracy among the models tested.
 - **Used for LIME explainability**.
 
-### 2. VGG16 & VGG19
+### 2. VGG16 
 - Pretrained models used for comparison.
 - Fine-tuned on the brain tumor dataset.
 
@@ -51,15 +48,8 @@ LIME (Local Interpretable Model-Agnostic Explanations) is used to visualize whic
 - **Predicted Class: Glioma**
 - **LIME Highlighted Regions** (showing critical areas used for classification)
 
-## Project Structure
-```
-📁 Brain-Tumor-Classification-using-CNN-XAI
-│── 📁 models            # Contains trained models
-│── 📁 datasets          # Contains dataset (if applicable)
-│── 📁 static            # Stores images and UI assets
-│── 📜 final.py            # Main Streamlit UI script& LIME   XAI
-│── 📜 README.md         # Project documentation
-```
+
+
 
 ## Dataset
 - The dataset consists of MRI scans categorized into **Glioma, Pituitary, Meningioma, and No Tumor**.
@@ -73,5 +63,5 @@ LIME (Local Interpretable Model-Agnostic Explanations) is used to visualize whic
 
 ## Contact
 **Ganesh Prasad Sahoo**  
-📧 Email: [ganeshprasadsahoo348@gmail.com]  
-🔗 GitHub: [GaneshPrasadSahoo](https://github.com/GaneshPrasadSahoo)
+📧 Email:  
+🔗 GitHub: 
