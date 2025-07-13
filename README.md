@@ -61,7 +61,6 @@ LIME (Local Interpretable Model-Agnostic Explanations) is used to visualize whic
 
 
 
-## Contact
-**Ganesh Prasad Sahoo**  
+## Contact  
 📧 Email:  
 🔗 GitHub: 
