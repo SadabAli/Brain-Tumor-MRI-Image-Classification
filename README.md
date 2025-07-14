@@ -1,4 +1,4 @@
-# Brain Tumor Classification using CNN & XAI (LIME)
+# Brain-Tumor-MRI-Image-Classification
 
 ## Overview
 This project is focused on classifying brain tumor images into four categories:
