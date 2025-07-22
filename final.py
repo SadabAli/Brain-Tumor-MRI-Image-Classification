@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 from skimage.segmentation import mark_boundaries
 
 # Load the trained model
-model_path = r"C:\Users\alisa\OneDrive\Desktop\Brain-Tumor-MRI-Image-Classification\vgg16_up.h5"
+model_path = r"C:\Users\alisa\OneDrive\Desktop\Brain-Tumor-MRI-Image-Classification\Brain_timor.h5"
 model = load_model(model_path)
 
 # Define the class names
